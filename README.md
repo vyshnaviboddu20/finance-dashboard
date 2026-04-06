@@ -1,17 +1,29 @@
-# Finance Dashboard UI
+# 💰 Finance Dashboard UI
 
-## Features
-- Dashboard with balance, income, expense
-- Charts (trend + category)
-- Transactions table with search & filter
-- Role-based UI (Admin / Viewer)
-- Insights section
+A modern and responsive finance dashboard built using React and Tailwind CSS.
 
-## Tech Stack
+## 🚀 Features
+
+- 📊 Dashboard overview (Balance, Income, Expenses)
+- 📈 Interactive charts (Trend & Category breakdown)
+- 📋 Transactions table with:
+  - Search
+  - Filter (Income / Expense)
+- 🔐 Role-based UI (Admin / Viewer)
+- ➕ Add Transaction modal (UI simulation)
+- 🌙 Dark mode toggle
+- 💡 Insights section (total & highest expense)
+- 🎨 Premium UI with gradients and glass effects
+
+## 🛠 Tech Stack
+
 - React (Vite)
 - Tailwind CSS
 - Recharts
+- React Icons
 
-## How to Run
-npm install  
+## ▶️ How to Run
+
+```bash
+npm install
 npm run dev
